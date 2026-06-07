@@ -1,0 +1,6 @@
+{
+  "name": "Soutien Aidants",
+  "description": "Application locale et sécurisée d'aide aux aidants familiaux : suivi des traitements et scanner d'ordonnances avec recherche textuelle par OCR locale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
